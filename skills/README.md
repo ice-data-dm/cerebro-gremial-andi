@@ -20,10 +20,13 @@ el procedimiento en el cuerpo.
 
 ## Catálogo
 
-| Skill | Qué hace |
-|---|---|
-| `consultar-antes-de-decidir` | La disciplina central: consultar el cerebro antes de cualquier decisión comercial |
-| `registrar-incidente-completo` | Reportar un incidente con el estándar del CRM (impacto, causa, dueños, cierre) |
-| `aprendizaje-de-promociones` | Cerrar una promoción convirtiendo el resultado en aprendizaje reutilizable |
-| `alta-de-cliente-completa` | Crear un cliente nuevo con la ficha completa desde la primera conversación |
-| `preparar-comite-ejecutivo` | Convertir el digest del CRM en el informe ejecutivo del comité |
+| Skill | Momento de la Colmena | Qué hace |
+|---|---|---|
+| `consultar-antes-de-decidir` | La regla de la casa | Consultar el cerebro antes de cualquier decisión comercial |
+| `registrar-incidente-completo` | El vuelo | Reportar un incidente con el estándar del CRM (impacto, causa, dueños, cierre) |
+| `aprendizaje-de-promociones` | El vuelo | Cerrar una promoción convirtiendo el resultado en aprendizaje reutilizable |
+| `alta-de-cliente-completa` | El vuelo | Crear un cliente nuevo con la ficha completa desde la primera conversación |
+| `gobernar-contradicciones` | El choque y el acta | Detectar versiones opuestas, arbitrar en mesa redonda y dejar el veredicto en acta ⚖️ |
+| `ritmo-diario` | El ritmo | La danza de las 7:00: el informe matinal que sincroniza al equipo |
+| `preparar-comite-ejecutivo` | El acta | Convertir el digest del CRM en el informe ejecutivo del comité |
+| `montar-la-colmena` | El lunes | La especificación completa para replicar este cerebro en una empresa real |
