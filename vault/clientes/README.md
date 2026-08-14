@@ -14,4 +14,3 @@ automáticamente en este directorio.
 | Farmabien | Droguerías | Nacional (sede Bogotá) | 2026-06-25 |
 | AhorraMás | Descuento duro | Bogotá y Cundinamarca | 2026-07-15 |
 | MyBed Colombia | e-commerce / venta directa (por confirmar showroom físico) | Bogotá | 2026-08-14 |
-| Cliente Prueba 100259 | mayorista | Bogotá | 2026-08-14 |
