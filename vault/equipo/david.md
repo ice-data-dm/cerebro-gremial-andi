@@ -3,8 +3,8 @@ tipo: tarjeta-usuario
 nombre: David
 unidad: cocina-hogar
 cargo: CAIO
-foco: electrodomésticos
-registrado: 2026-08-14 09:07 (Bogotá)
+foco: electrodomésticos · contacto: david@icebergdata.co
+registrado: 2026-08-14 09:18 (Bogotá)
 ---
 
 # David — Cocina y Pequeños Electros
@@ -12,5 +12,5 @@ registrado: 2026-08-14 09:07 (Bogotá)
 Tarjeta de usuario del CRM comercial UNIANDI.
 
 - Cargo: CAIO
-- Foco: electrodomésticos
-- En el CRM desde: 2026-08-14 09:07 (Bogotá)
+- Foco: electrodomésticos · contacto: david@icebergdata.co
+- En el CRM desde: 2026-08-14 09:18 (Bogotá)
