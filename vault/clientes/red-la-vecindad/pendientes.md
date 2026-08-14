@@ -7,3 +7,4 @@ Formato: `- [ ] fecha_limite · Unidad · tarea (dueño: nombre)`
 - [ ] 2026-08-15 · Cocina y Pequeños Electros · Prueba de concurrencia 095227 #7 (dueño: probador)
 - [ ] 2026-08-15 · Cocina y Pequeños Electros · Prueba de concurrencia 095227 #4 (dueño: probador)
 - [ ] 2026-08-15 · Cocina y Pequeños Electros · Prueba de concurrencia 095227 #9 (dueño: probador)
+- [ ] 2026-08-15 · Cocina y Pequeños Electros · Prueba de concurrencia 095227 #2 (dueño: probador)
