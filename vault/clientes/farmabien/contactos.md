@@ -3,9 +3,11 @@ tipo: contactos
 cliente: farmabien
 ---
 
+> Correos ficticios del ejercicio (dominio de práctica).
+
 # Contactos — Farmabien
 
-| Rol | Nombre | Nota de relación |
-|---|---|---|
-| Directora de compras | Adriana Cifuentes | Preside el comité mensual; decide con datos de rotación |
-| Químico farmacéutico de calidad | Mauricio Lemus | Revisa registros sanitarios y rotulado antes de codificar |
+| Rol | Nombre | Correo | Nota de relación |
+|---|---|---|---|
+| Directora de compras | Adriana Cifuentes | adriana.cifuentes@icebergdata.co | Preside el comité mensual; decide con datos de rotación |
+| Químico farmacéutico de calidad | Mauricio Lemus | mauricio.lemus@icebergdata.co | Revisa registros sanitarios y rotulado antes de codificar |
