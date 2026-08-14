@@ -28,5 +28,6 @@ el procedimiento en el cuerpo.
 | `alta-de-cliente-completa` | El vuelo | Crear un cliente nuevo con la ficha completa desde la primera conversación |
 | `gobernar-contradicciones` | El choque y el acta | Detectar versiones opuestas, arbitrar en mesa redonda y dejar el veredicto en acta ⚖️ |
 | `ritmo-diario` | El ritmo | La danza de las 7:00: el informe matinal que sincroniza al equipo |
+| `difundir-comunicados` | La red | El Excel del equipo + borradores de Gmail para comunicados y misiones por correo |
 | `preparar-comite-ejecutivo` | El acta | Convertir el digest del CRM en el informe ejecutivo del comité |
 | `montar-la-colmena` | El lunes | La especificación completa para replicar este cerebro en una empresa real |
