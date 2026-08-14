@@ -28,3 +28,7 @@ Todo el conocimiento vive en [`vault/`](vault/README.md) — empieza por el
 manual de registro que está ahí. Los procedimientos comerciales empaquetados
 para asistentes de IA viven en [`skills/`](skills/README.md): cualquier agente
 conectado al cerebro puede descubrirlos e instalarlos.
+
+Cada registro queda **firmado con el nombre de quien lo hizo**. El tratamiento
+de los datos de los participantes está descrito en la
+[política de privacidad](PRIVACIDAD.md).
