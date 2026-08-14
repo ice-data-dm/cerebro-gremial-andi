@@ -8,3 +8,4 @@ Formato: `- [ ] fecha_limite · Unidad · tarea (dueño: nombre)`
 - [ ] 2026-08-21 · Aseo del Hogar · Revisar surtido, espacios y activación en las 3 tiendas con mayor decrecimiento de productos foco — seguimiento post reunión con Juanita Pérez (dueño: Angela)
 - [ ] 2026-08-28 · Alimentos y Golosinas · Reunión de seguimiento con Didier: revisar rotación de pastas San Remo tras aplicar descuento de fin de semana (dueño: Yilver)
 - [ ] 2026-08-21 · Aseo del Hogar · Confirmar propuesta comercial con Nicolás (SuperAndes) (dueño: Andres)
+- [ ] 2026-08-28 · Cuidado Personal · Presentar propuesta de surtido ampliado de marca Esencia a Tatiana Bermúdez (dueño: Daniela)
