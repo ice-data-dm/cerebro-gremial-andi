@@ -14,3 +14,4 @@ Formato: `- [ ] fecha_limite · Unidad · tarea (dueño: nombre)`
 - [ ] 2026-08-15 · Cocina y Pequeños Electros · Prueba de concurrencia 100259 #2 (dueño: probador)
 - [ ] 2026-08-15 · Cocina y Pequeños Electros · Prueba de concurrencia 100259 #6 (dueño: probador)
 - [ ] 2026-08-15 · Cocina y Pequeños Electros · Prueba de concurrencia 100259 #0 (dueño: probador)
+- [ ] 2026-08-15 · Cocina y Pequeños Electros · Prueba de concurrencia 100259 #8 (dueño: probador)
